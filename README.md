@@ -18,7 +18,7 @@ Para ver o desenvolvimento acesse o planejamento:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![FIGMA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fsoftware%2Fo-que-e-figma%2F&psig=AOvVaw1F0Pm7wqXmxiJkretUDoWN&ust=1646851132985000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMC1mNqUt_YCFQAAAAAdAAAAABAD)](https://www.figma.com/)
+
 
 ### Support Ou Contato
 
