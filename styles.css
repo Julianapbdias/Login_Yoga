@@ -1,0 +1,137 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+       
+}
+
+.image-yoga{
+    position: absolute;
+    margin: 195px 170px 0 145px;
+    padding-bottom: 122px;
+    color: #E5E5E5;
+
+}
+
+input {
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    width: 321px;
+    height: 46px;
+    display: block;
+    position: absolute;
+    margin: 0 60px 0 40px;
+    align-items: center;
+}
+
+.username {
+    width: 66.92px;
+    height: 17px;
+    margin: 396px 283px 0 20px;
+    padding:15px 234px 14px 20px;
+    border: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: -0.41px;      
+    color: #969696
+}
+
+.password {
+    width: 66.92px;
+    height: 17px;
+    margin: 460px 283px 0 20px;
+    padding:15px 234px 14px 20px;
+    border: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    letter-spacing: -0.41px;      
+    color: #969696  
+}
+
+.forgot {
+    position: absolute;
+    width: 102px;
+    height: 15px;
+    margin: 529px 0 52px 0;
+    text-decoration: none;
+    padding: 17px 16px 0 240px;
+    letter-spacing: -0.41px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    color: #000000;
+}
+
+button {
+    display: block;
+    position: absolute;
+    align-items: center;
+    margin: 582px 140px 268px 120px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    text-align: center;
+    color: #FFFFFF;
+    Width:133px;
+    Height:46px;
+    padding-top: 20px 0 20px 0;
+    font-style:normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.paragraph-1 {
+    display: block;
+    position: absolute;
+    margin: 649px 87px 229px 87px;
+    Width:240px;
+    Height:18px;
+    color: #969696;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+}
+
+.paragraph-2 {
+    display: block;
+    position: absolute;
+    margin: 729px 143px 138px 143px;
+    Width:128px;
+    Height:29px;
+    color: #000000;
+    font-style: bolder;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.image-google {
+    position: absolute;
+    display: block;
+    margin: 778px 244px 82px 134px;
+    align-items: center;
+}
+
+.image-yang {
+    position: absolute;
+    display: block;
+    margin: 776.5px 188px 80.5px 187px;
+    align-items: center;
+}
+
+.image-facebook {
+    position: absolute;
+    display: block;
+    margin: 780px 135px 80.5px 242px;
+    align-items: center;
+}
