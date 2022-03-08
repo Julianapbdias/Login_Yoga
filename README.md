@@ -3,7 +3,7 @@
 # Login_Yoga
 Projeto de tela de login de app de Yoga responsiva, criada com CSS e HTML.
 ## 🔧 Função
-Treinar CSS e HTML
+Treinar CSS, HTML e Git pelo terminal.
 
 ## Veja o desenvolvimento do projeto:
 
